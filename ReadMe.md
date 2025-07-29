@@ -6,3 +6,9 @@ Press the green flag to start the storyline. When ready to play, press space to 
 
 ## Created by
 onmathis
+
+## 🎮 Play the Game on Scratch
+
+[![Scooby Snax Catcher Preview](https://upload.wikimedia.org/wikipedia/commons/6/6a/Scratch_Logo.png)](https://scratch.mit.edu/projects/123456789/)
+
+Click the image to play the game!
